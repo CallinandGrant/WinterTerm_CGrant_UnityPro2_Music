@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{186EDA3F-584E-2592-E102-CF55EABC0046}") = "WinterTerm_CGrant_UnityPro2_Musix", "Assembly-CSharp.csproj", "{F18DD857-0B5B-5344-90C0-ADE566C41265}"
+EndProject
+Project("{186EDA3F-584E-2592-E102-CF55EABC0046}") = "WinterTerm_CGrant_UnityPro2_Musix", "Assembly-CSharp-Editor.csproj", "{3385A64F-DFB3-102B-12E4-A8196CF4873D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18DD857-0B5B-5344-90C0-ADE566C41265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18DD857-0B5B-5344-90C0-ADE566C41265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18DD857-0B5B-5344-90C0-ADE566C41265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18DD857-0B5B-5344-90C0-ADE566C41265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3385A64F-DFB3-102B-12E4-A8196CF4873D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3385A64F-DFB3-102B-12E4-A8196CF4873D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3385A64F-DFB3-102B-12E4-A8196CF4873D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3385A64F-DFB3-102B-12E4-A8196CF4873D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
